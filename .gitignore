@@ -1,0 +1,18 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# 编辑/编译器产物
+*.log
+*.aux
+*.bbl
+*.blg
+*.out
+*.synctex.gz
+
+# agent 本地数据（不随发布）
+.reasonix/
+
+# Python
+__pycache__/
+*.pyc
